@@ -1,4 +1,4 @@
-name: Python CICD Pipeline
+name: Python CICD Pipeline 
 
 on: 
   push:
