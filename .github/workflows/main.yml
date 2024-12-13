@@ -39,3 +39,8 @@ jobs:
       # Step 5: Run Unit Tests
       - name: Run Unit Tests
         run: pytest tests/test_unit.py
+
+      # Step 6: Run Integration Tests
+      - name: Run Integration Tests
+        run: pytest tests/test_integration.py        
+
